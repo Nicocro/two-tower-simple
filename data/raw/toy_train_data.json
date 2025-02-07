@@ -1,0 +1,56 @@
+{
+  "version": "0.1",
+  "description": "Toy dataset for two-tower retrieval model testing, training split",
+  "examples": [
+    {
+      "query": "What is the capital of France?",
+      "pos_passage": "Paris is the capital of France.",
+      "neg_passage": "Ultraviolet light is toxic for humans."
+    },
+    {
+      "query": "Who wrote the play Hamlet?",
+      "pos_passage": "Hamlet was written by William Shakespeare.",
+      "neg_passage": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "query": "What is the chemical symbol for water?",
+      "pos_passage": "The chemical symbol for water is H2O.",
+      "neg_passage": "Mount Everest is the tallest mountain in the world."
+    },
+    {
+      "query": "Who discovered gravity?",
+      "pos_passage": "Isaac Newton formulated the laws of gravity after observing an apple fall from a tree.",
+      "neg_passage": "The Great Wall of China is one of the longest man-made structures."
+    },
+    {
+      "query": "What is the square root of 64?",
+      "pos_passage": "The square root of 64 is 8.",
+      "neg_passage": "The Amazon Rainforest is home to a vast number of plant and animal species."
+    },
+    {
+      "query": "Who painted the Mona Lisa?",
+      "pos_passage": "The Mona Lisa was painted by Leonardo da Vinci.",
+      "neg_passage": "Saturn has the most extensive ring system of any planet in the Solar System."
+    },
+    {
+      "query": "What is the largest planet in the Solar System?",
+      "pos_passage": "Jupiter is the largest planet in the Solar System.",
+      "neg_passage": "The Eiffel Tower is located in Paris, France."
+    },
+    {
+      "query": "Who developed the theory of relativity?",
+      "pos_passage": "The theory of relativity was developed by Albert Einstein.",
+      "neg_passage": "The Sahara Desert is the largest hot desert in the world."
+    },
+    {
+      "query": "What is the boiling point of water at sea level?",
+      "pos_passage": "The boiling point of water at sea level is 100 degrees Celsius.",
+      "neg_passage": "The Great Barrier Reef is the largest coral reef system in the world."
+    },
+    {
+      "query": "Who was the first person to walk on the Moon?",
+      "pos_passage": "Neil Armstrong was the first person to walk on the Moon.",
+      "neg_passage": "Venus is the hottest planet in the Solar System."
+    }
+  ]
+}

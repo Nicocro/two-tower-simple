@@ -1,0 +1,31 @@
+{
+  "version": "0.1",
+  "description": "Evaluation dataset for two-tower retrieval model testing",
+  "examples": [
+    {
+      "query": "What is the speed of light in a vacuum?",
+      "pos_passage": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+      "neg_passage": "The Pyramids of Giza are ancient structures located in Egypt."
+    },
+    {
+      "query": "Who is known as the father of computers?",
+      "pos_passage": "Charles Babbage is known as the father of computers for his work on the Analytical Engine.",
+      "neg_passage": "The Amazon River is one of the longest rivers in the world."
+    },
+    {
+      "query": "What is the powerhouse of the cell?",
+      "pos_passage": "The mitochondrion is known as the powerhouse of the cell because it generates ATP.",
+      "neg_passage": "The Leaning Tower of Pisa is a famous tilted structure in Italy."
+    },
+    {
+      "query": "Who was the first president of the United States?",
+      "pos_passage": "George Washington was the first president of the United States.",
+      "neg_passage": "The Great Lakes are the largest group of freshwater lakes in the world."
+    },
+    {
+      "query": "What is the freezing point of water in Fahrenheit?",
+      "pos_passage": "The freezing point of water in Fahrenheit is 32 degrees.",
+      "neg_passage": "The Colosseum is an ancient amphitheater located in Rome, Italy."
+    }
+  ]
+}
